@@ -1,0 +1,17 @@
+package newproject;
+
+import org.junit.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class project {
+
+	@Test
+	public void test() {
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://userguide.epixelcommerce.com/");
+		driver.manage().window().maximize();
+		System.out.println("success");
+		
+	}
+}

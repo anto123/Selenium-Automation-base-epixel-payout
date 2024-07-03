@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pageObjectModel.Reusability&apos; to &apos;Webelements&apos;&#x0A;- Original project: &apos;Reports&apos;&#x0A;- Original element: &apos;pageObjectModel.Reusability&apos;&#x0A;- Renamed element: &apos;pageObjectModel.Webelements&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Reusability&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;pageObjectModel{Reusability.java[Reusability" matchStrategy="1" name="Webelements" qualified="false" references="true" similarDeclarations="false" stamp="1709284717769" textual="false" version="1.0"/>
+</session>
